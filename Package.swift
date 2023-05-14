@@ -24,7 +24,7 @@ var package = Package(
     dependencies: [
         .package(
             url: "https://github.com/PureSwift/swift-system",
-            branch: "feature/dynamic-lib"
+            branch: "origin/feature/dynamic-lib"
         )
     ],
     targets: [
